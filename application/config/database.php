@@ -6,10 +6,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'doanvat',
+	'hostname' => 'us-cdbr-east-02.cleardb.com',
+	'username' => 'b3f016f5ccd589',
+	'password' => '8b3a2d89',
+	'database' => 'heroku_3df72c31714fad3',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
